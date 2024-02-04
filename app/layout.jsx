@@ -6,6 +6,7 @@ export const metadata = {
   description: 'A minimal starter for Nextjs + React-three-fiber and Threejs.',
 }
 
+
 export default function RootLayout({ children }) {
   return (
     <html lang='en' className='antialiased'>
